@@ -2,7 +2,7 @@ name: wxread
 
 on:
   schedule:
-    - cron: '10 20 * * 0'  # 每周一北京时间凌晨2:30执行
+    - cron: '0 18 * * 0'  # 每周一北京时间凌晨2点执行
   workflow_dispatch:  # 手动触发
 
 jobs:

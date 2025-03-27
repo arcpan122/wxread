@@ -2,7 +2,7 @@ name: read_147
 
 on:
   schedule:
-    - cron: '10 16 * * *'  # 每天北京时间凌晨12:10执行（UTC时间16:10）
+    - cron: '20 16 * * *'  # 每天北京时间凌晨12:10执行（UTC时间16:10）
   workflow_dispatch:  # 手动触发
 
 jobs:

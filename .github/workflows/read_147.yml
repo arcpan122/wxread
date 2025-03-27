@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
-    environment: MainRead  # 指定环境
+    environment: Read_147  # 指定环境
 
     steps:
 

@@ -1,4 +1,4 @@
-name: read_122
+name: demo
 
 on:
   schedule:

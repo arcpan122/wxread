@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
-    environment: AutoRead  # 指定环境
+    environment: read_147  # 指定环境
 
     steps:
 
